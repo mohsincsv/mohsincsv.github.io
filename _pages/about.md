@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mohsin_pfp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>AI Engineer</p>
@@ -21,6 +21,6 @@ Hi, I'm Mohsin Iqbal, a Pre-Doctoral Researcher at Fatima Research Fellowship, w
 
 I like to work on socially impactful applied research in computer science that help improve people's lives. My research includes artificial intelligence, computer vision, machine learning, AI for humans and its biomedical applications. I aim to contribute to the advancement of knowledge and ultimately make substantial contributions to the betterment of society.
 
-In addition to research, I also love teaching and mentoring younger students and aspire to a career that combines teaching, collaboration, and mentorship with research. I have been a teaching assistant three times for three different classes and enjoy working with students. \
+In addition to research, I also love teaching and mentoring younger students and aspire to a career that combines teaching, collaboration, and mentorship with research. I have been a teaching assistant three times for three different classes and enjoy working with students.
 
 [Email](mailto:L1S20BSCS0005@ucp.edu.pk) | [Twitter](https://x.com/mohsincsv) | [GitHub](https://github.com/mohsincsv) | [LinkedIn](https://www.linkedin.com/in/mohsincsv) | [Medium](https://medium.com/@mohsincsv)
