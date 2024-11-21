@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: mohsin_pfp.jpg
+  image: mohsin_pfp.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>AI Engineer</p>
