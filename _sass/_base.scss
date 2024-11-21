@@ -203,6 +203,7 @@ ul.task-list input[type="checkbox"] {
     p {
       display: inline-block;
       margin: 0;
+      font-size: 18px;
     }
   }
 }
@@ -1043,7 +1044,7 @@ nav[data-toggle="toc"] {
   .nav-link.active {
     color: var(--global-theme-color);
     border-left-color: var(--global-theme-color);
-    font-size: 0.75rem;
+    font-size: 1.75rem;
 
     &:hover {
       color: var(--global-hover-color);
