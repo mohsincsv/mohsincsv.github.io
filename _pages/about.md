@@ -25,9 +25,9 @@ I like to work on socially impactful applied research in computer science that h
 In addition to research, I also love teaching and mentoring younger students and aspire to a career that combines teaching, collaboration, and mentorship with research. I have been a teaching assistant three times for three different classes and enjoy working with students.
 
 <div style="text-align: center;">
-  <a href="mailto:L1S20BSCS0005@ucp.edu.pk">Email</a> | 
-  <a href="https://x.com/mohsincsv">Twitter</a> | 
-  <a href="https://github.com/mohsincsv">GitHub</a> | 
-  <a href="https://www.linkedin.com/in/mohsincsv">LinkedIn</a> | 
+  <a href="mailto:L1S20BSCS0005@ucp.edu.pk">Email</a> &nbsp; | &nbsp; 
+  <a href="https://x.com/mohsincsv">Twitter</a> &nbsp; | &nbsp; 
+  <a href="https://github.com/mohsincsv">GitHub</a> &nbsp; | &nbsp; 
+  <a href="https://www.linkedin.com/in/mohsincsv">LinkedIn</a> &nbsp; | &nbsp; 
   <a href="https://medium.com/@mohsincsv">Medium</a>
 </div>
