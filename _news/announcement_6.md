@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-01-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Senior year thesis got nominated for the "<b>Best Thesis of the Year Award</b>" and received recognition for industrial funding to be deployed in clinical workflows.
