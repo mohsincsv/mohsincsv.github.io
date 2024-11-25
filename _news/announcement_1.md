@@ -1,8 +1,6 @@
 ---
 layout: post
-date: 2024-11-21
+title: Will be serving as a reviewer for 2025 MenaML (Middle East and North Africa Machine Learning) Winter School
+date: 2024-11-01
 inline: true
-related_posts: false
 ---
-
-Starting as a Pre-Doctoral Research Fellow at Fatima Fellowship advised by Dr. Wei Peng, from Stanford University
